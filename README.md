@@ -1,2 +1,2 @@
 # agentic-toolbox
-some scripts/llm tools I use to improve my productivity
+some scripts/tools I use to improve my productivity
